@@ -6,7 +6,7 @@ A web application built with **Streamlit** that classifies SMS messages as **SPA
 
 ## Live Demo
 
-🔗 [Live App on Streamlit Cloud](https://your-streamlit-url.streamlit.app)
+🔗 [Live App on Streamlit Cloud]([https://your-streamlit-url.streamlit.app](https://chtbvxea8n47xpoghh9ggm.streamlit.app/))
 
 
 ##  Project Structure
